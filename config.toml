@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Boston UG Hugo Site"
+theme = "ananke"
